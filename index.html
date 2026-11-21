@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Flash Gestion Orga</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0f1115">
+<link rel="icon" href="data:,">
+<style>
+  :root{
+    --bg:#0f1115; --card:#1a1d24; --accent:#6ea8fe; --good:#3ddc84; --bad:#ff5a5f; --text:#e8eaf0; --muted:#9aa0ab;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    background:var(--bg); color:var(--text); min-height:100vh;
+    display:flex; flex-direction:column; align-items:center; padding:16px;
+  }
+  header{ width:100%; max-width:480px; text-align:center; margin-bottom:12px;}
+  h1{font-size:1.2rem; margin:4px 0;}
+  .sub{color:var(--muted); font-size:0.85rem;}
+  .progress{ width:100%; max-width:480px; background:var(--card); border-radius:8px; height:8px; overflow:hidden; margin:10px 0;}
+  .progress-bar{ height:100%; background:var(--accent); width:0%; transition:width .3s;}
+  .card{ width:100%; max-width:480px; background:var(--card); border-radius:16px; padding:22px; margin-top:12px; box-shadow:0 4px 20px rgba(0,0,0,.3);}
+  .tag{ font-size:0.7rem; color:var(--accent); text-transform:uppercase; letter-spacing:.05em; margin-bottom:8px;}
+  .question{ font-size:1.1rem; line-height:1.4; margin-bottom:18px; white-space:pre-wrap;}
+  textarea{ width:100%; min-height:70px; border-radius:10px; border:1px solid #333; background:#11131a; color:var(--text); padding:10px; font-size:1rem; resize:vertical;}
+  button{ border:none; border-radius:10px; padding:12px 16px; font-size:1rem; cursor:pointer; font-weight:600;}
+  .btn-primary{ background:var(--accent); color:#0f1115; width:100%; margin-top:12px;}
+  .answer-box{ margin-top:14px; padding:14px; background:#11131a; border-radius:10px; border:1px solid #2a2d35;}
+  .answer-box .label{ color:var(--muted); font-size:0.8rem; margin-bottom:4px;}
+  .grade-row{ display:flex; gap:8px; margin-top:14px;}
+  .grade-row button{ flex:1; font-size:0.9rem;}
+  .grade-bad{ background:var(--bad); color:#fff;}
+  .grade-ok{ background:#f5a623; color:#111;}
+  .grade-good{ background:var(--good); color:#063;}
+  .done{ text-align:center; padding:40px 10px;}
+  .done h2{ color:var(--good);}
+  .stats{ width:100%; max-width:480px; display:flex; justify-content:space-between; color:var(--muted); font-size:0.75rem; margin-top:6px;}
+  .install-hint{ font-size:0.75rem; color:var(--muted); text-align:center; margin-top:18px; max-width:480px;}
+  a{color:var(--accent);}
+</style>
+</head>
+<body>
+<header>
+  <h1>🎯 Questions flash — Gestion Orga</h1>
+  <div class="sub" id="examInfo"></div>
+</header>
+<div class="progress"><div class="progress-bar" id="progressBar"></div></div>
+<div class="stats"><span id="statsLeft"></span><span id="statsDone"></span></div>
+
+<div id="app"></div>
+
+<div class="install-hint">
+  Installe cette page sur ton écran d'accueil (bouton "Partager" → "Sur l'écran d'accueil") pour l'ouvrir comme une app, et autorise les notifications pour un rappel à 7h.
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

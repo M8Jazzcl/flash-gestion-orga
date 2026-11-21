@@ -1,0 +1,9 @@
+{
+  "name": "Flash Gestion Orga",
+  "short_name": "FlashOrga",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f1115",
+  "theme_color": "#0f1115",
+  "icons": []
+}

@@ -1,0 +1,2186 @@
+[
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Rappelez la définition d'une organisation",
+  "reponse": "Une organisation est un groupe de personne, réunies par un cadre juridique, qui coordonne ses efforts dans le but d'atteindre des objectifs communs.",
+  "id": "q1"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Qu'appelle-t-on « division du travail » ?",
+  "reponse": "C'est la répartition du travail entre les membres d'une organisation : chaque personne effectue une tâche particulière plutôt que de tout faire elle-même.",
+  "id": "q2"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Pourquoi la coordination est-elle nécessaire dès qu'il y a division du travail ?",
+  "reponse": "Parce que dès que chacun se spécialise sur une tâche différente, il faut articuler ces tâches entre elles pour que l'ensemble permette d'atteindre l'objectif commun de l'organisation.",
+  "id": "q3"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Un groupe de 3 amis crée une agence web avec division du travail, réunions de coordination chaque lundi, but lucratif (dividendes versés) et une année d'existence. S'agit-il d'une organisation ?",
+  "reponse": "Les 3 amis forment un groupe, il y a division du travail, coordination (réunions), but commun lucratif, et stabilité dans le temps (1 an). Les 5 critères sont réunis : il s'agit d'une organisation.",
+  "id": "q4"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Quatre étudiants révisent un weekend avec répartition des chapitres à présenter. S'agit-il d'une organisation ?",
+  "reponse": "Groupe, division du travail et coordination sont présents, mais un weekend n'est pas suffisant pour la stabilité dans le temps. Ce n'est donc pas une organisation.",
+  "id": "q5"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Une couturière crée seule son entreprise individuelle. S'agit-il d'une organisation ?",
+  "reponse": "Il y a stabilité dans le temps, mais seule, il ne peut y avoir ni division du travail ni coordination. Ce n'est donc pas une organisation.",
+  "id": "q6"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Quel est le critère qui permet de dire qu'une organisation est à but lucratif ou non lucratif ?",
+  "reponse": "La possibilité ou non de reverser une partie du résultat positif aux propriétaires ou aux membres : lucratif si c'est possible, non lucratif si c'est interdit.",
+  "id": "q7"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Une association peut-elle reverser une partie de son résultat positif à ses membres ? Pourquoi ?",
+  "reponse": "Non : une organisation à but non lucratif n'a pas le droit de reverser une partie de ses bénéfices à ses propriétaires ou membres ; l'ensemble du surplus doit rester dans l'organisation.",
+  "id": "q8"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Une entreprise est-elle obligée de distribuer tout son bénéfice à ses propriétaires ?",
+  "reponse": "Non : elle peut conserver une partie du bénéfice sous forme de réserves et n'en distribuer qu'une partie sous forme de dividendes.",
+  "id": "q9"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Comment appelle-t-on le résultat positif d'une association ? Et celui d'une entreprise ?",
+  "reponse": "Pour une association, on parle de surplus ; pour une entreprise, on parle de bénéfices.",
+  "id": "q10"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Quelle différence faites-vous entre dividendes et réserves ?",
+  "reponse": "Les dividendes sont la part du bénéfice distribuée aux propriétaires ; les réserves sont la part du bénéfice qui reste dans l'entreprise.",
+  "id": "q11"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Une association peut-elle avoir des « dividendes » ?",
+  "reponse": "Non : le terme dividende désigne la part du bénéfice distribuée aux propriétaires d'une entreprise ; une association à but non lucratif n'a pas le droit de distribuer son surplus.",
+  "id": "q12"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Une mutuelle d'assurance ne peut légalement reverser son résultat à ses adhérents. A-t-elle un but lucratif ou non lucratif ?",
+  "reponse": "Un but non lucratif, puisqu'elle ne reverse pas son résultat positif à ses adhérents.",
+  "id": "q13"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "M. Durand crée un cabinet de conseil dans le but de s'enrichir : quel est le but de cette organisation ?",
+  "reponse": "Un but lucratif.",
+  "id": "q14"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Un club sportif (association loi 1901) ne peut légalement reverser ses excédents à ses dirigeants. A-t-il un but lucratif ?",
+  "reponse": "Non : il a un but non lucratif, car son éventuel surplus n'est pas reversé à ses dirigeants ou membres.",
+  "id": "q15"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Une SAS met en réserve l'intégralité de son bénéfice pendant 5 ans sans verser de dividendes. A-t-elle pour autant un but non lucratif ?",
+  "reponse": "Non, elle reste à but lucratif : ses actionnaires ont le droit de se verser des dividendes, le fait de ne pas l'exercer ne change pas le statut.",
+  "id": "q16"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Qu'est-ce qui détermine si une entreprise est publique ou privée ?",
+  "reponse": "La structure du capital : si l'État ou une collectivité territoriale contrôle seul l'entreprise (plus de 50% des titres dont les propriétaires votent), elle est publique ; sinon privée.",
+  "id": "q17"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Que représente un « titre » (action ou part sociale) pour son détenteur ?",
+  "reponse": "Un titre représente une partie du capital apportée ; il donne droit à une part des bénéfices et à une voix en assemblée générale.",
+  "id": "q18"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Pourquoi dit-on qu'un titre donne « une voix » lors des votes en assemblée générale ?",
+  "reponse": "Parce que chaque titre détenu donne droit à un vote ; plus on détient de titres, plus on dispose de voix.",
+  "id": "q19"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Un associé apporte 30 000 € pour des parts d'une valeur nominale de 100 € : combien de parts reçoit-il ?",
+  "reponse": "300 parts (30 000 / 100).",
+  "id": "q20"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Trois associés apportent 50 000 €, 30 000 € et 20 000 € (parts à 100 €), la société emprunte 40000 € et achète un entrepôt 100000 €. Combien de titres par associé et quel est le capital ?",
+  "reponse": "Capital = 100 000 € (somme des apports). Associé 1 : 500 parts, associé 2 : 300 parts, associé 3 : 200 parts. L'emprunt et l'achat n'entrent pas dans le capital.",
+  "id": "q21"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Deux actionnaires apportent 25 000 € chacun, achètent 20 000 € de marchandises revendues 28 000 €. Quel est le capital ?",
+  "reponse": "Le capital est de 50 000 € (la somme des apports). Les autres montants ne sont pas des apports.",
+  "id": "q22"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Un associé détient 600 titres sur 900 : peut-il imposer seul ses décisions ?",
+  "reponse": "Oui : il détient plus de 50% des titres (66,7%), aucune coalition des autres ne peut le dépasser.",
+  "id": "q23"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Si l'État détient 55% des titres d'une entreprise, comment qualifie-t-on cette entreprise ?",
+  "reponse": "Une entreprise publique, car l'État détient plus de 50% des titres.",
+  "id": "q24"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "M. A détient 30%, M. B 10%, et 60% de particuliers ne votent jamais. Qui contrôle l'entreprise ?",
+  "reponse": "M. A : en ne comptant que les voix exprimées (30+10=40%), il détient 75% des voix exprimées (30/40), ce qui suffit à gagner tous les votes.",
+  "id": "q25"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Dans quelle case du tableau croisé classez-vous une commune ?",
+  "reponse": "Publique et non lucrative.",
+  "id": "q26"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Dans quelle case du tableau croisé classez-vous une association loi 1901 ?",
+  "reponse": "Privée et non lucrative.",
+  "id": "q27"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "EDF a un but lucratif et appartient à 100% à l'État. A quel type appartient cette organisation ?",
+  "reponse": "C'est une entreprise publique.",
+  "id": "q28"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Citez les 5 mécanismes de coordination vus en cours.",
+  "reponse": "L'ajustement mutuel, la supervision directe, la standardisation des procédés de travail, la standardisation des résultats, la standardisation des qualifications.",
+  "id": "q29"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Quel mécanisme correspond à des étudiants qui se répartissent le travail pour une présentation de groupe ?",
+  "reponse": "L'ajustement mutuel.",
+  "id": "q30"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Quel mécanisme repose sur l'uniformisation des compétences via formation ou diplôme ?",
+  "reponse": "La standardisation des qualifications.",
+  "id": "q31"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Quelle est la différence entre standardisation des procédés et des résultats ?",
+  "reponse": "Les procédés imposent la méthode ; les résultats imposent seulement l'objectif, en laissant la méthode libre.",
+  "id": "q32"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Des salariés suivent une liste de questions dans un ordre défini pour diagnostiquer un problème informatique : quel mécanisme ?",
+  "reponse": "La standardisation des procédés de travail.",
+  "id": "q33"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Un chef de projet attribue individuellement chaque tâche et ajuste ses consignes au fil de l'eau : quel mécanisme ?",
+  "reponse": "La supervision directe.",
+  "id": "q34"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Une entreprise fixe un objectif de 30 colis/jour par livreur mais laisse l'itinéraire libre : quel mécanisme ?",
+  "reponse": "La standardisation des résultats.",
+  "id": "q35"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Quels sont les 3 types de ressources d'une organisation ?",
+  "reponse": "Les ressources humaines, les ressources financières et les ressources matérielles.",
+  "id": "q36"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Dans la création d'un restaurant (apports, emprunt, matériel, salariés, actionnaire passif, CA), que sont les ressources humaines/financières/matérielles ?",
+  "reponse": "Apports et emprunts = ressources financières. Matériel et ingrédients = ressources matérielles. Cuisinier et serveur = ressources humaines. Le CA n'est pas une ressource financière, l'actionnaire passif n'est pas une ressource humaine.",
+  "id": "q37"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Les impôts qui financent une administration publique appartiennent à quel type de ressource ?",
+  "reponse": "Aux ressources financières.",
+  "id": "q38"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Un local commercial appartenant à une entreprise appartient à quel type de ressource ?",
+  "reponse": "Aux ressources matérielles.",
+  "id": "q39"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Un emprunt bancaire contracté par une entreprise appartient à quel type de ressource ?",
+  "reponse": "Aux ressources financières.",
+  "id": "q40"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Les bénévoles d'une association appartiennent à quel type de ressource ?",
+  "reponse": "Aux ressources humaines.",
+  "id": "q41"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Citez les 4 types de contraintes qui pèsent sur une organisation.",
+  "reponse": "Les contraintes juridiques, les contraintes de ressources, les contraintes de temps et les contraintes de résultat.",
+  "id": "q42"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "Qu'est-ce qu'une contrainte de résultat ?",
+  "reponse": "Une organisation créée pour atteindre un but précis n'a plus de raison d'exister si elle n'atteint pas ce but.",
+  "id": "q43"
+ },
+ {
+  "synthese": 1,
+  "titre": "L'action collective",
+  "question": "En quoi une contrainte de ressources limite-t-elle les objectifs qu'une organisation peut se fixer ?",
+  "reponse": "Les ressources financières, humaines et matérielles étant toujours limitées, l'organisation doit fixer des objectifs compatibles avec ses ressources réelles.",
+  "id": "q44"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quelle est la différence entre la dénomination sociale et le nom commercial d'une entreprise ?",
+  "reponse": "La dénomination sociale est le nom officiel de l'organisation ; le nom commercial est le nom utilisé auprès des clients. Les deux peuvent être identiques ou différents.",
+  "id": "q45"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Qu'est-ce qu'une enseigne ?",
+  "reponse": "C'est un signe apposé sur un établissement qui permet de l'identifier.",
+  "id": "q46"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Une chaîne « Distribution Atlantique SAS » affiche « FreshMarket » en façade. Quel est le nom commercial ? Quelle est la dénomination sociale ?",
+  "reponse": "Dénomination sociale : « Distribution Atlantique SAS ». Nom commercial et enseigne : « FreshMarket ».",
+  "id": "q47"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Sur un extrait Kbis on lit « Grandé Italia SAS ». De quel type de nom s'agit-il ?",
+  "reponse": "De la dénomination sociale : le nom officiel dans les documents juridiques.",
+  "id": "q48"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Dans une publicité télévisée, une entreprise se présente sous le nom « EcoRide ». De quel type de nom s'agit-il ?",
+  "reponse": "Du nom commercial : utilisé auprès des clients.",
+  "id": "q49"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Sur une devanture de magasin on lit « BioMarch' ». De quel type de nom s'agit-il ?",
+  "reponse": "De l'enseigne : le signe apposé sur l'établissement.",
+  "id": "q50"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Qu'est-ce que la finalité d'une entreprise ?",
+  "reponse": "La raison pour laquelle l'entreprise a été créée.",
+  "id": "q51"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Une même entreprise peut-elle avoir plusieurs finalités à la fois ?",
+  "reponse": "Oui, plusieurs types de finalités peuvent coexister dans une même entreprise.",
+  "id": "q52"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quelle est la seule finalité que l'on retrouve dans toutes les entreprises sans exception, et pourquoi ?",
+  "reponse": "La finalité économique : une entreprise doit réaliser du profit pour survivre. C'est la seule finalité présente dans toutes les entreprises.",
+  "id": "q53"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Citez les trois types de finalités qu'une entreprise peut poursuivre.",
+  "reponse": "La finalité économique, la finalité sociale et la finalité sociétale.",
+  "id": "q54"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quelle différence faites-vous entre une finalité sociale et une finalité sociétale ?",
+  "reponse": "La finalité sociale vise à améliorer la situation des salariés ; la finalité sociétale vise à améliorer la situation de la société dans son ensemble.",
+  "id": "q55"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quelle est la différence entre la finalité économique et les deux autres finalités, en termes de présence dans les entreprises ?",
+  "reponse": "La finalité économique est la seule présente dans toutes les entreprises ; les finalités sociale et sociétale sont facultatives.",
+  "id": "q56"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Une entreprise qui recrute exclusivement des personnes en situation de handicap : quelle finalité non économique poursuit-elle ?",
+  "reponse": "Une finalité sociale : améliorer la situation de ses salariés.",
+  "id": "q57"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Ecosia reverse une partie de ses revenus publicitaires à des programmes de reforestation. Quelle finalité non économique poursuit-il ?",
+  "reponse": "Une finalité sociétale : améliorer la situation de la société et de l'environnement.",
+  "id": "q58"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Backmarket revend des appareils reconditionnés pour limiter l'usage de ressources naturelles. Quelle finalité non économique identifiez-vous ?",
+  "reponse": "Une finalité sociétale.",
+  "id": "q59"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Qu'est-ce que le chiffre d'affaires d'une entreprise ?",
+  "reponse": "La somme de toutes les ventes de l'entreprise.",
+  "id": "q60"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Qu'appelle-t-on consommations intermédiaires ?",
+  "reponse": "Les biens et services achetés par l'entreprise et transformés au cours de la production.",
+  "id": "q61"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Comment calcule-t-on la valeur ajoutée d'une entreprise, et que représente-t-elle ?",
+  "reponse": "Valeur ajoutée = chiffre d'affaires − consommations intermédiaires. Elle représente la richesse créée par l'entreprise.",
+  "id": "q62"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Citez les 5 acteurs qui reçoivent une part de la valeur ajoutée créée par une entreprise.",
+  "reponse": "Les salariés, les propriétaires, les banques, les administrations publiques et l'entreprise elle-même.",
+  "id": "q63"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quelle contrepartie reçoivent les banques et les administrations publiques sur la valeur ajoutée ?",
+  "reponse": "Les banques reçoivent des intérêts ; les administrations publiques reçoivent des impôts, taxes et cotisations sociales.",
+  "id": "q64"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Pourquoi la répartition de la valeur ajoutée est-elle souvent source de conflits dans l'entreprise ?",
+  "reponse": "Chaque acteur cherche à obtenir la part la plus importante possible de la richesse créée, ce qui crée des intérêts opposés.",
+  "id": "q65"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Une entreprise fait 200 000 € de CA, achète 120 000 € de matières premières/services et une machine à 25 000 €. Calculez sa valeur ajoutée.",
+  "reponse": "200 000 − 120 000 = 80 000 € de valeur ajoutée. La machine n'entre pas en compte car c'est une immobilisation.",
+  "id": "q66"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Une boulangerie achète 15 000 € de farine/beurre/énergie et vend 40 000 € de pain. Calculez sa valeur ajoutée.",
+  "reponse": "40 000 − 15 000 = 25 000 € de valeur ajoutée.",
+  "id": "q67"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "CA de 500 000 €, consommations intermédiaires 180 000+60 000+30 000 €, véhicule 20 000 €, salaires 50 000 €. Calculez la valeur ajoutée.",
+  "reponse": "Consommations intermédiaires = 270 000 €. Valeur ajoutée = 500 000 − 270 000 = 230 000 €. Le véhicule et les salaires n'entrent pas dans le calcul.",
+  "id": "q68"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Qu'est-ce que l'activité d'une entreprise ?",
+  "reponse": "C'est ce que fait l'entreprise concrètement.",
+  "id": "q69"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Une entreprise fabrique des téléphones et les vend dans ses propres boutiques. Quelle(s) activité(s) exerce-t-elle ?",
+  "reponse": "Elle exerce une activité de fabrication de téléphones portables.",
+  "id": "q70"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Amazon propose vente en ligne et services cloud (AWS). Citez ces deux activités.",
+  "reponse": "La vente de produits en ligne et la fourniture de services informatiques.",
+  "id": "q71"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Qu'est-ce que le type d'activité d'une entreprise ?",
+  "reponse": "Une classification des entreprises en fonction de leur activité, regroupant celles qui font la même chose.",
+  "id": "q72"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Combien de types d'activité distingue-t-on ? Citez-les.",
+  "reponse": "5 types : artisanale, commerciale de biens, commerciale de services, industrielle et agricole.",
+  "id": "q73"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quelle est la différence entre une entreprise commerciale de biens et une entreprise industrielle ?",
+  "reponse": "La commerciale de biens revend sans transformer ; l'industrielle fabrique des biens à partir de matières premières.",
+  "id": "q74"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Un plombier qui emploie 4 personnes et intervient personnellement sur les chantiers : quel type d'activité ?",
+  "reponse": "Artisanale : le chef d'entreprise participe personnellement au travail manuel, moins de 10 salariés.",
+  "id": "q75"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Epic Games vend des jeux vidéo en ligne et une plateforme de distribution numérique. Quel type d'activité ?",
+  "reponse": "Commerciale de services : elle vend des biens immatériels.",
+  "id": "q76"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Yoplait transforme du lait en yaourts et les vend. Quel type d'activité, et pourquoi pas commerciale de biens ?",
+  "reponse": "Industrielle : elle fabrique à partir de matières premières. Pas commerciale de biens car elle transforme ses achats.",
+  "id": "q77"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Qu'est-ce que le secteur d'activité d'une entreprise ?",
+  "reponse": "Une classification distinguant secteur primaire, secondaire et tertiaire.",
+  "id": "q78"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Citez les 3 secteurs d'activité et leur terminologie économique associée.",
+  "reponse": "Primaire (agriculture), secondaire (industrie), tertiaire (services).",
+  "id": "q79"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Pourquoi le secteur tertiaire est-il défini « par défaut » par rapport aux deux autres ?",
+  "reponse": "Il regroupe toutes les activités qui ne sont ni primaires ni secondaires — essentiellement des services.",
+  "id": "q80"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Une entreprise qui exploite une mine de cuivre appartient à quel secteur ?",
+  "reponse": "Au secteur primaire : elle extrait une matière première non transformée.",
+  "id": "q81"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Un constructeur aéronautique qui fabrique des avions appartient à quel secteur ?",
+  "reponse": "Au secteur secondaire : il transforme des matières premières pour fabriquer un bien.",
+  "id": "q82"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Une banque et un cabinet de conseil appartiennent-ils au même secteur ? Lequel ?",
+  "reponse": "Oui, au secteur tertiaire : ils proposent des services.",
+  "id": "q83"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Sur quel critère principal classe-t-on généralement la taille d'une entreprise ?",
+  "reponse": "Sur le nombre de salariés.",
+  "id": "q84"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quels sont les 3 critères retenus pour déterminer la taille d'une entreprise ?",
+  "reponse": "Le nombre de salariés, le total du bilan et le chiffre d'affaires.",
+  "id": "q85"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Combien de catégories de taille distingue-t-on, et comment s'appellent-elles ?",
+  "reponse": "4 catégories : micro-entreprise, PME, ETI et grande entreprise.",
+  "id": "q86"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quels sont les seuils de la micro-entreprise selon les 3 critères de classification ?",
+  "reponse": "Moins de 10 salariés, bilan < 2M€, CA < 2M€ (2 critères sur 3).",
+  "id": "q87"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quels sont les seuils d'une ETI en effectif, CA et bilan ?",
+  "reponse": "Entre 250 et 4999 salariés, et CA < 1,5 milliard € ou bilan < 2 milliards €.",
+  "id": "q88"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "À partir de quels seuils une entreprise est-elle classée grande entreprise ?",
+  "reponse": "5000 salariés ou plus, bilan > 1,5 milliard €, CA > 2 milliards € (2 critères sur 3).",
+  "id": "q89"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Entreprise de 8 salariés, 1,5M€ de CA, bilan 800 000€. Quelle catégorie ?",
+  "reponse": "Micro-entreprise : les 3 critères sont respectés.",
+  "id": "q90"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Entreprise de 200 salariés, 80M€ de CA, bilan 40M€. Quelle catégorie ?",
+  "reponse": "PME : 2 critères sur 3 respectés (effectif et bilan).",
+  "id": "q91"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Entreprise de 3000 salariés, 900M€ de CA, bilan 2,5 milliards€. Quelle catégorie, pourquoi pas grande entreprise ?",
+  "reponse": "ETI : entre 250 et 4999 salariés et CA < 1,5 milliard. Pas grande entreprise car moins de 5000 salariés et CA sous 2 milliards.",
+  "id": "q92"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quel critère permet de qualifier une entreprise d'entreprise publique ?",
+  "reponse": "L'État ou une collectivité territoriale doit contrôler seul l'entreprise (plus de 50% des voix exprimées).",
+  "id": "q93"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "L'État détient 40% des actions, le reste chez des milliers d'actionnaires qui ne votent jamais. Publique ou privée ?",
+  "reponse": "Publique : l'État détient 100% des voix effectivement exprimées.",
+  "id": "q94"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "L'État détient 40%, un fonds privé 35%, des particuliers 25% (qui votent toujours). Publique ou privée ?",
+  "reponse": "Privée : l'État ne détient pas la majorité des voix exprimées (40% contre 60%).",
+  "id": "q95"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Qu'est-ce que la forme juridique d'une entreprise ?",
+  "reponse": "Une classification juridique ; à chaque forme correspond un ensemble de règles juridiques.",
+  "id": "q96"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Pourquoi le choix de la forme juridique est-il important pour les propriétaires ?",
+  "reponse": "Il détermine l'étendue de leur responsabilité en cas de difficultés financières.",
+  "id": "q97"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Citez deux aspects concrets sur lesquels la forme juridique influe directement.",
+  "reponse": "La responsabilité des propriétaires et le nom donné aux propriétaires et à leurs titres.",
+  "id": "q98"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Citez les 6 formes juridiques vues en cours.",
+  "reponse": "L'entreprise individuelle (EI), la SARL, l'EURL, la SA, la SAS et la SASU.",
+  "id": "q99"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quelle forme juridique est une SARL avec un seul propriétaire ?",
+  "reponse": "L'EURL.",
+  "id": "q100"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quelle forme juridique est une SAS avec un seul propriétaire ?",
+  "reponse": "La SASU.",
+  "id": "q101"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Dans une SARL, comment s'appellent les propriétaires, quels titres, qui dirige ?",
+  "reponse": "Associés, parts sociales, direction par un gérant choisi par les associés.",
+  "id": "q102"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Dans une SA traditionnelle, comment s'appellent les propriétaires, quels titres, qui dirige ?",
+  "reponse": "Actionnaires, actions, direction par un président et un conseil d'administration.",
+  "id": "q103"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Dans une SAS, qui décide de l'organisation de la direction, en quoi diffère-t-elle de la SA ?",
+  "reponse": "Les statuts précisent la direction (grande liberté) ; dans une SA la loi impose un mode de direction précis.",
+  "id": "q104"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quelle est la différence entre une SARL et une EURL ?",
+  "reponse": "La SARL peut avoir plusieurs associés ; l'EURL est une SARL à un seul propriétaire.",
+  "id": "q105"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Quelle est la différence entre une SAS et une SASU ?",
+  "reponse": "La SAS peut avoir plusieurs actionnaires ; la SASU est une SAS à un seul actionnaire.",
+  "id": "q106"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Un entrepreneur veut créer seul son entreprise avec responsabilité limitée aux apports : quelles formes ?",
+  "reponse": "L'EURL ou la SASU.",
+  "id": "q107"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Citez les 4 groupes de classification des formes juridiques vus en cours.",
+  "reponse": "Entreprises individuelles, sociétés de personnes, sociétés de capitaux et sociétés mixtes.",
+  "id": "q108"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Dans une société de personnes, peut-on vendre ses parts sociales librement ?",
+  "reponse": "Non : il faut l'accord des autres associés car la personnalité des associés est primordiale.",
+  "id": "q109"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "La SARL est qualifiée de société mixte : qu'est-ce que cela signifie ?",
+  "reponse": "Elle emprunte aux deux types : cession des parts encadrée (comme société de personnes) et responsabilité limitée (comme société de capitaux).",
+  "id": "q110"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Différence de responsabilité entre actionnaire de SA et associé de société en nom collectif ?",
+  "reponse": "L'actionnaire de SA n'est responsable qu'à hauteur de son apport ; l'associé en nom collectif est personnellement et solidairement responsable sur ses biens personnels.",
+  "id": "q111"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Qu'est-ce que la responsabilité « solidaire » dans une société de personnes ?",
+  "reponse": "Chaque associé peut être tenu de rembourser seul l'intégralité des dettes.",
+  "id": "q112"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Dans une société de capitaux, un créancier peut-il saisir la maison personnelle d'un actionnaire ?",
+  "reponse": "Non : la responsabilité est limitée à l'apport, les biens personnels sont protégés.",
+  "id": "q113"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Une SAS en faillite, actionnaires ayant apporté 10 000 € chacun. Peuvent-ils perdre plus que leurs 10 000 € ?",
+  "reponse": "Non : société de capitaux, responsabilité limitée aux apports.",
+  "id": "q114"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Deux associés d'une société en nom collectif doivent 50 000 € à un fournisseur, l'entreprise n'a que 20 000 €. Le fournisseur peut-il se retourner contre les associés personnellement ?",
+  "reponse": "Oui : société de personnes, responsabilité personnelle et solidaire.",
+  "id": "q115"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Mme Martin, gérante unique associée d'une EURL, ne peut payer une facture de 15 000 €. Le créancier peut-il saisir ses biens personnels ?",
+  "reponse": "Non : EURL, responsabilité limitée aux apports.",
+  "id": "q116"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Qu'est-ce que la nationalité d'une entreprise ?",
+  "reponse": "Le pays auquel est rattachée l'entreprise, déterminé par l'adresse du siège social.",
+  "id": "q117"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Deux entreprises fabriquent en France mais l'une a son siège à Paris, l'autre à Dublin. Même nationalité ?",
+  "reponse": "Non : l'une est française, l'autre irlandaise (siège social).",
+  "id": "q118"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Un entrepreneur français installe son siège social au Luxembourg pour des raisons fiscales. Quelle nationalité ?",
+  "reponse": "Luxembourgeoise : c'est le siège social qui définit la nationalité.",
+  "id": "q119"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Citez les 3 origines possibles des ressources financières d'une entreprise.",
+  "reponse": "Résultats non distribués, capitaux apportés par les propriétaires, emprunts.",
+  "id": "q120"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Les brevets détenus par une entreprise appartiennent à quel type de ressource ?",
+  "reponse": "Aux ressources matérielles (biens immatériels possédés).",
+  "id": "q121"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Brevet, emprunt bancaire de 100 000€, 5 commerciaux salariés, un entrepôt : classez par catégorie de ressource.",
+  "reponse": "Brevet : matérielle. Emprunt : financière. Commerciaux : humaines. Entrepôt : matérielle.",
+  "id": "q122"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Qu'est-ce que le champ d'action d'une entreprise ?",
+  "reponse": "La partie du monde où ont lieu les ventes de l'entreprise.",
+  "id": "q123"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Citez les différents niveaux de champ d'action possibles pour une entreprise.",
+  "reponse": "Communal, départemental, régional, national et international.",
+  "id": "q124"
+ },
+ {
+  "synthese": 2,
+  "titre": "Caractéristiques et finalités d'une entreprise",
+  "question": "Une boulangerie vend dans son quartier, Amazon dans le monde entier. Quel champ d'action pour chacune ?",
+  "reponse": "Boulangerie : communal. Amazon : international.",
+  "id": "q125"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Citez les 3 types d'administrations publiques.",
+  "reponse": "Les administrations publiques centrales, les collectivités territoriales, et les administrations de sécurité sociale.",
+  "id": "q126"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "La CPAM appartient à quel type d'administration publique ?",
+  "reponse": "Aux administrations de sécurité sociale.",
+  "id": "q127"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Le conseil régional, la mairie et le conseil départemental appartiennent au même type d'administration publique. Lequel ?",
+  "reponse": "Les collectivités territoriales.",
+  "id": "q128"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quelles sont les deux finalités communes aux administrations centrales et aux collectivités territoriales ?",
+  "reponse": "Assurer un service public à prix inférieur au coût de revient, et gérer le domaine public.",
+  "id": "q129"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quelle est la finalité des administrations de sécurité sociale ?",
+  "reponse": "Effectuer des opérations de redistribution des revenus pour le compte de la collectivité.",
+  "id": "q130"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "En quoi la finalité des administrations de sécurité sociale diffère-t-elle des deux autres types ?",
+  "reponse": "Les autres assurent un service public et gèrent le domaine public ; la sécurité sociale redistribue les revenus (prestations).",
+  "id": "q131"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quel est le champ d'action des administrations publiques centrales et de sécurité sociale ?",
+  "reponse": "National.",
+  "id": "q132"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quel est le champ d'action d'une collectivité territoriale ?",
+  "reponse": "Le territoire qu'elle gère (région, département ou commune).",
+  "id": "q133"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Pourquoi le champ d'action des collectivités territoriales diffère-t-il selon le type ?",
+  "reponse": "Chaque collectivité est responsable d'un territoire précis et délimité.",
+  "id": "q134"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quelles sont les ressources financières des administrations publiques centrales ?",
+  "reponse": "Les impôts d'État, directs (IR, impôt sur les bénéfices) et indirects (TVA).",
+  "id": "q135"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quelles sont les ressources financières des collectivités territoriales ?",
+  "reponse": "Les impôts locaux, directs (taxe foncière) ou indirects (taxes locales).",
+  "id": "q136"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quelles sont les ressources financières des administrations de sécurité sociale ?",
+  "reponse": "Les cotisations sociales et les impôts sociaux (CRDS et CSG).",
+  "id": "q137"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quelles sont les ressources humaines des administrations publiques centrales ?",
+  "reponse": "Principalement des fonctionnaires d'État, et des agents contractuels.",
+  "id": "q138"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quelles sont les ressources humaines des collectivités territoriales ?",
+  "reponse": "Des fonctionnaires territoriaux et des agents contractuels.",
+  "id": "q139"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Pourquoi les ressources humaines des administrations de sécurité sociale sont-elles plus hétérogènes ?",
+  "reponse": "Elles regroupent fonctionnaires d'État, territoriaux et salariés de droit privé.",
+  "id": "q140"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quelle est la différence entre un impôt direct et un impôt indirect ?",
+  "reponse": "Direct quand redevable et contribuable sont la même personne, indirect quand ils sont différents.",
+  "id": "q141"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Dans le cas de la TVA, qui est le redevable et qui est le contribuable ?",
+  "reponse": "Les entreprises sont redevables, les consommateurs sont contribuables.",
+  "id": "q142"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "L'impôt sur le revenu est-il direct ou indirect ?",
+  "reponse": "Direct : contribuable et redevable sont la même personne.",
+  "id": "q143"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Qu'est-ce qu'un barème progressif pour l'impôt sur le revenu ?",
+  "reponse": "Un tableau qui découpe le revenu en tranches taxées à des taux croissants, chaque taux ne s'appliquant qu'à sa tranche.",
+  "id": "q144"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Comment le quotient familial intervient-il dans le calcul de l'impôt sur le revenu ?",
+  "reponse": "On divise le revenu par le nombre de parts du foyer, on applique le barème, puis on multiplie par le nombre de parts.",
+  "id": "q145"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Un revenu par part passant de 29000 à 30000 € entraîne-t-il une forte hausse d'impôt ?",
+  "reponse": "Non, seule la fraction dépassant le seuil de tranche est taxée au nouveau taux.",
+  "id": "q146"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Un célibataire perçoit 20 000 € de revenus (1 part). Calculez son impôt.",
+  "reponse": "(20000-11600)x11% = 924 €. Impôt total = 924 €.",
+  "id": "q147"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Un couple sans enfant perçoit 60 000 € (2 parts). Calculez leur impôt.",
+  "reponse": "Revenu par part 30000€. Impôt par part ≈2104€. Impôt total ≈4208€.",
+  "id": "q148"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Pourquoi deux foyers au même revenu total peuvent-ils payer des impôts différents ?",
+  "reponse": "Le nombre de parts du quotient familial varie selon la composition du foyer.",
+  "id": "q149"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quel est le taux normal de l'impôt sur les bénéfices des sociétés en France ?",
+  "reponse": "25%.",
+  "id": "q150"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Qu'est-ce que l'optimisation fiscale ?",
+  "reponse": "Utiliser légalement les subtilités du droit fiscal pour payer le moins d'impôts possible.",
+  "id": "q151"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "L'optimisation fiscale est-elle légale ? En quoi diffère-t-elle de la fraude fiscale ?",
+  "reponse": "Oui elle est légale ; la fraude fiscale dissimule illégalement des revenus/bénéfices.",
+  "id": "q152"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Citez les 4 taux de TVA en France et à quoi ils s'appliquent.",
+  "reponse": "20% achats courants, 10% certains biens/restauration, 5,5% première nécessité, 2,1% biens culturels/médicaments remboursables.",
+  "id": "q153"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Article vendu 180 € TTC, TVA 20%. Prix HT et montant de TVA ?",
+  "reponse": "HT = 180/1,2 = 150 €. TVA = 30 €.",
+  "id": "q154"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Achat 200 € HT, revente 350 € HT, TVA 20%. Quelle TVA à reverser ?",
+  "reponse": "TVA collectée 70 € − TVA déductible 40 € = 30 € à reverser.",
+  "id": "q155"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Qu'est-ce qu'un fonctionnaire ?",
+  "reponse": "Un agent public titulaire d'un emploi permanent, recruté principalement par concours.",
+  "id": "q156"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Pourquoi le recrutement des fonctionnaires se fait-il principalement par concours ?",
+  "reponse": "Pour garantir l'égalité d'accès aux emplois publics via des critères objectifs.",
+  "id": "q157"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Différence entre fonctionnaire et agent contractuel ?",
+  "reponse": "Le fonctionnaire est titularisé par concours, emploi à vie ; le contractuel est recruté par contrat CDD/CDI sans concours.",
+  "id": "q158"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Qu'est-ce que l'emploi à vie pour un fonctionnaire ?",
+  "reponse": "L'administration ne peut le licencier pour motif économique, mais il peut être révoqué pour faute grave.",
+  "id": "q159"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quelle est la première finalité de l'emploi à vie ?",
+  "reponse": "Préserver la continuité du service public.",
+  "id": "q160"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quelle est la seconde finalité de l'emploi à vie ?",
+  "reponse": "Préserver la neutralité du service public.",
+  "id": "q161"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quel droit s'applique aux fonctionnaires, et lequel aux salariés du privé ?",
+  "reponse": "Droit administratif pour les fonctionnaires ; droit du travail pour les salariés du privé.",
+  "id": "q162"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Les agents contractuels des administrations publiques relèvent-ils du Code du travail ?",
+  "reponse": "Non, en principe ils relèvent aussi du droit administratif.",
+  "id": "q163"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Devant quel tribunal un fonctionnaire conteste-t-il une décision, vs un salarié du privé ?",
+  "reponse": "Fonctionnaire : tribunal administratif. Salarié privé : conseil de prud'hommes.",
+  "id": "q164"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Définissez salaire brut, cotisations salariales, salaire net et leur relation.",
+  "reponse": "Salaire net = salaire brut − cotisations salariales.",
+  "id": "q165"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Salaire brut 2000€, cotisations salariales 400€, patronales 500€. Salaire net et coût total employeur ?",
+  "reponse": "Net = 1600€. Coût total = 2500€.",
+  "id": "q166"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Pourquoi baisser les cotisations réduit le coût du travail mais aussi les ressources de la sécu ?",
+  "reponse": "Les cotisations financent la sécurité sociale ; les baisser réduit ce financement tout en allégeant le coût pour l'employeur.",
+  "id": "q167"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quel est l'organe de direction d'une région, d'un département et d'une commune ?",
+  "reponse": "Conseil régional, Conseil départemental, Conseil municipal.",
+  "id": "q168"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Pour quelle durée sont élus les conseillers, et quelle fonction élisent-ils ensuite ?",
+  "reponse": "6 ans ; ils élisent un président (maire pour la commune).",
+  "id": "q169"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quel est l'organe de direction des administrations de sécurité sociale, et sa composition ?",
+  "reponse": "Un conseil d'administration : assurés sociaux, employeurs, État, personnes compétentes.",
+  "id": "q170"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Qu'est-ce qu'un service public ?",
+  "reponse": "Un service rendu par les administrations pour satisfaire l'intérêt général.",
+  "id": "q171"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Citez les 3 principes que doit respecter tout service public.",
+  "reponse": "Égalité, continuité et adaptabilité.",
+  "id": "q172"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Associez : pompiers secourent sans distinction / accueil des élèves si absence enseignant / création de la CNIL.",
+  "reponse": "Égalité (pompiers), continuité (accueil des élèves), adaptabilité (CNIL).",
+  "id": "q173"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quelle est la différence entre égalité et équité dans le service public ?",
+  "reponse": "Égalité : tous traités pareil. Équité : l'État adapte selon la situation de chacun.",
+  "id": "q174"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Les aides sociales de la CAF illustrent-elles l'égalité ou l'équité ?",
+  "reponse": "L'équité : leur montant varie selon la situation du citoyen.",
+  "id": "q175"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "L'équité remet-elle en cause le principe d'égalité du service public ?",
+  "reponse": "Non, c'est une évolution du principe d'égalité, pas sa remise en cause.",
+  "id": "q176"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Quelles sont les 2 caractéristiques d'un bien public ?",
+  "reponse": "Non-exclusion (impossible d'empêcher l'usage) et non-rivalité (l'usage par un ne prive pas les autres).",
+  "id": "q177"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Pourquoi l'entretien des biens publics est-il financé par la collectivité ?",
+  "reponse": "Impossible de faire payer individuellement les utilisateurs.",
+  "id": "q178"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Un phare et une route nationale sont-ils des biens publics ?",
+  "reponse": "Oui : non-exclusion et non-rivalité.",
+  "id": "q179"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Différence entre service public marchand et non marchand ?",
+  "reponse": "Non marchand : financé par l'État, usager ne paie pas. Marchand : financé en partie par l'usager via un prix.",
+  "id": "q180"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Qu'est-ce qu'une délégation de service public (concession) ?",
+  "reponse": "Un contrat où une entreprise privée gère un service public à la place d'une personne publique.",
+  "id": "q181"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Autoroutes du Sud de la France gère des autoroutes de l'État et perçoit les péages. Marchand ou non marchand ? Comment appelle-t-on cela ?",
+  "reponse": "Marchand ; délégation de service public (concession).",
+  "id": "q182"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Différence entre un usager et un client d'un service public ?",
+  "reponse": "L'usager ne paie pas directement ; le client paie un prix pour le service public marchand.",
+  "id": "q183"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "Pourquoi les clients ont-ils des attentes différentes des usagers ?",
+  "reponse": "Ils paient directement et attendent une qualité correspondant au prix.",
+  "id": "q184"
+ },
+ {
+  "synthese": 3,
+  "titre": "Caractéristiques et finalités des administrations publiques",
+  "question": "En quoi le passage d'usager à client remet-il en cause le principe d'égalité ?",
+  "reponse": "Les clients veulent un service proportionnel au prix payé, ce qui rompt avec l'égalité de traitement.",
+  "id": "q185"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Qu'est-ce qu'une organisation à but non lucratif (OBNL) ?",
+  "reponse": "Une organisation dont l'objet n'est pas le partage de bénéfices entre membres mais un service aux membres ou à la collectivité.",
+  "id": "q186"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Quelle est la différence fondamentale entre une OBNL et une entreprise ?",
+  "reponse": "L'entreprise peut distribuer des dividendes aux propriétaires ; l'OBNL ne peut jamais distribuer son surplus aux membres.",
+  "id": "q187"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Une OBNL peut-elle avoir un résultat positif et rester non lucrative ?",
+  "reponse": "Oui : ce qui compte c'est l'interdiction de distribuer le surplus, pas son existence.",
+  "id": "q188"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Les Restos du Cœur distribuent des repas et leurs statuts interdisent de reverser un surplus. OBNL ou entreprise ?",
+  "reponse": "OBNL.",
+  "id": "q189"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Une salle de sport privée distribue des bénéfices à ses actionnaires. OBNL ou entreprise ?",
+  "reponse": "Entreprise.",
+  "id": "q190"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Une mutuelle de santé réinvestit intégralement son surplus dans ses services. OBNL ou entreprise ?",
+  "reponse": "OBNL.",
+  "id": "q191"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Quelle est la finalité d'une OBNL ?",
+  "reponse": "Rendre un service à ses membres ou à la collectivité, dans un but autre que lucratif.",
+  "id": "q192"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "En quoi la finalité d'une OBNL diffère-t-elle de celle d'une entreprise ?",
+  "reponse": "L'entreprise a toujours une finalité économique ; l'OBNL vise un service sans enrichir ses propriétaires.",
+  "id": "q193"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Les Restos du Cœur et une chaîne de restaurants ont la même activité mais pas la même finalité : pourquoi ?",
+  "reponse": "La chaîne cherche le profit distribuable ; les Restos du Cœur cherchent à aider sans enrichir leurs membres.",
+  "id": "q194"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Quelle est l'activité de Médecins Sans Frontières ?",
+  "reponse": "Soigner les personnes sans accès aux soins dans les pays en crise ou en conflit.",
+  "id": "q195"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Une association sportive organise des entraînements et loue ses terrains à d'autres clubs. Quelles activités ?",
+  "reponse": "Entraînements de football, et location de terrains (activité accessoire).",
+  "id": "q196"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Une association d'aide aux personnes âgées livre des repas et organise des sorties. Quelles activités ?",
+  "reponse": "Livraison de repas à domicile, et organisation de sorties culturelles.",
+  "id": "q197"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Quels sont les niveaux de champ d'action possibles pour une OBNL ?",
+  "reponse": "Local, national ou international.",
+  "id": "q198"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Un club de football intervient uniquement sur Bayonne. Quel champ d'action ?",
+  "reponse": "Local (communal).",
+  "id": "q199"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Médecins Sans Frontières intervient dans des pays en guerre à travers le monde. Quel champ d'action ?",
+  "reponse": "International.",
+  "id": "q200"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Qu'est-ce qui détermine la nationalité d'une OBNL ?",
+  "reponse": "Le siège social indiqué dans les statuts.",
+  "id": "q201"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Une association française a son siège social à Bruxelles. Quelle nationalité ?",
+  "reponse": "Belge.",
+  "id": "q202"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Greenpeace a son siège international aux Pays-Bas. Quelle nationalité ?",
+  "reponse": "Néerlandaise.",
+  "id": "q203"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Citez les 5 types d'OBNL vus en cours.",
+  "reponse": "Associations de fait, associations déclarées, ONG, associations déclarées d'utilité publique, et mutuelles.",
+  "id": "q204"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Différence principale entre association de fait et association déclarée ?",
+  "reponse": "La déclarée a été déclarée en préfecture et a la personnalité juridique, la fait non.",
+  "id": "q205"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Parmi les 5 types d'OBNL, lequel est réservé au champ d'action international ?",
+  "reponse": "L'ONG.",
+  "id": "q206"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Un groupe d'habitants organise des événements de voisinage sans démarche administrative. Quel type d'OBNL ?",
+  "reponse": "Association de fait.",
+  "id": "q207"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Une association a été reconnue d'utilité publique par décret en Conseil d'État. Quel type d'OBNL ?",
+  "reponse": "Association déclarée d'utilité publique.",
+  "id": "q208"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Citez deux différences entre une mutuelle de santé et une association sportive locale.",
+  "reponse": "La mutuelle offre une protection sociale complémentaire via cotisations (solidarité) et relève du Code de la mutualité ; l'association relève de la loi 1901.",
+  "id": "q209"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Qu'est-ce qu'une ONG sur le plan juridique, et quelles caractéristiques la distinguent ?",
+  "reponse": "Juridiquement une association loi 1901 ; généralement champ international, indépendance des gouvernements, finalité sociétale, taille importante.",
+  "id": "q210"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Une association de quartier financée à 80% par la mairie peut-elle être qualifiée d'ONG ?",
+  "reponse": "Non : champ local, dépendance financière à un gouvernement local, finalité tournée vers ses membres.",
+  "id": "q211"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "UNICEF et Amnesty International peuvent-elles être qualifiées d'ONG ?",
+  "reponse": "Oui : champ international, indépendance, finalité sociétale, taille importante.",
+  "id": "q212"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Qu'est-ce qu'une mutuelle ?",
+  "reponse": "Un organisme à but non lucratif offrant une protection sociale complémentaire grâce aux cotisations de ses membres.",
+  "id": "q213"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "En quoi une mutuelle se distingue-t-elle d'une compagnie d'assurance classique ?",
+  "reponse": "L'assurance est une entreprise lucrative qui distribue ses bénéfices ; la mutuelle est une OBNL fonctionnant par solidarité.",
+  "id": "q214"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Une mutuelle réalise un surplus de 2M€. Que peut-elle en faire ?",
+  "reponse": "Le conserver pour financer ses activités, elle ne peut pas le distribuer à ses adhérents.",
+  "id": "q215"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Citez les 3 types de ressources humaines d'une OBNL.",
+  "reponse": "Les membres (adhérents), les bénévoles et les salariés.",
+  "id": "q216"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Quelle est la différence entre un membre et un bénévole dans une OBNL ?",
+  "reponse": "Le membre a adhéré (souvent cotisation) ; le bénévole contribue gratuitement sans nécessairement être membre.",
+  "id": "q217"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "200 licenciés, 15 aidants non licenciés, 2 éducateurs rémunérés. Identifiez les 3 types.",
+  "reponse": "Licenciés = membres. Aidants non licenciés = bénévoles. Éducateurs = salariés.",
+  "id": "q218"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Marc a une carte d'adhérent à un club de volley. Membre, bénévole ou salarié ?",
+  "reponse": "Membre.",
+  "id": "q219"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Une personne aide une association sans être adhérente ni rémunérée. Membre, bénévole ou salarié ?",
+  "reponse": "Bénévole.",
+  "id": "q220"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Une association emploie un comptable à temps partiel rémunéré. Quel type de ressource humaine ?",
+  "reponse": "Salarié.",
+  "id": "q221"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Citez les principales ressources financières d'une OBNL.",
+  "reponse": "Dons, subventions, ventes de biens/services, cotisations des membres, parrainage et sponsoring.",
+  "id": "q222"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Quelle est la principale différence entre les ressources financières d'une OBNL et d'une entreprise ?",
+  "reponse": "L'OBNL dispose en plus de dons, subventions publiques et cotisations de membres, inexistants pour une entreprise classique.",
+  "id": "q223"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Opération coûtant 4400€, subvention mairie 2000€, buvette 1500€, cagnotte 500€, sponsoring logo 400€. Identifiez chaque ressource.",
+  "reponse": "2000€ = subvention. 1500€ = vente de biens/services. 500€ = don. 400€ = sponsoring.",
+  "id": "q224"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Comment appelle-t-on le résultat positif d'une OBNL, et en quoi diffère-t-il du bénéfice ?",
+  "reponse": "Un surplus ; il doit obligatoirement rester dans l'organisation, contrairement au bénéfice distribuable.",
+  "id": "q225"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Pourquoi le surplus d'une OBNL ne peut-il pas être distribué à ses membres ?",
+  "reponse": "Cela contredirait le but non lucratif en enrichissant les membres.",
+  "id": "q226"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Une association a un surplus de 8000€. Que peut-elle en faire ?",
+  "reponse": "Le conserver pour financer ses activités ou investir, jamais le distribuer.",
+  "id": "q227"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Quels sont les deux organes de direction les plus courants d'une OBNL ?",
+  "reponse": "L'assemblée générale et le bureau.",
+  "id": "q228"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Quel est le rôle de l'assemblée générale dans une OBNL ?",
+  "reponse": "Réunit tous les adhérents, prend les décisions stratégiques et élit le bureau.",
+  "id": "q229"
+ },
+ {
+  "synthese": 4,
+  "titre": "Les caractéristiques des OBNL",
+  "question": "Quelle est la différence entre l'assemblée générale et le bureau ?",
+  "reponse": "L'AG décide stratégiquement 1 ou 2 fois/an ; le bureau, élu par l'AG, dirige au quotidien.",
+  "id": "q230"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Citez les 3 rôles principaux d'un dirigeant selon Mintzberg.",
+  "reponse": "Le rôle relationnel, le rôle informationnel et le rôle décisionnel.",
+  "id": "q231"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "En quoi consiste le rôle informationnel d'un dirigeant ?",
+  "reponse": "Collecter des informations grâce à ses contacts et les utiliser pour prendre des décisions.",
+  "id": "q232"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "En quoi consiste le rôle décisionnel d'un dirigeant ?",
+  "reponse": "Prendre des décisions critiques face aux changements et imprévus, puis les négocier avec les parties prenantes.",
+  "id": "q233"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "En quoi consiste le rôle relationnel d'un dirigeant ?",
+  "reponse": "Entretenir des contacts avec de nombreux acteurs et remplir les obligations liées à sa position d'autorité formelle.",
+  "id": "q234"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Un dirigeant participe à un salon professionnel pour rencontrer des partenaires. Quel rôle de Mintzberg ?",
+  "reponse": "Le rôle relationnel.",
+  "id": "q235"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Un dirigeant analyse les rapports de vente et décide de lancer un nouveau produit. Quels rôles ?",
+  "reponse": "Informationnel (analyse) et décisionnel (décision).",
+  "id": "q236"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Face à la défaillance d'un fournisseur, un dirigeant mobilise en urgence du budget. Quel rôle ?",
+  "reponse": "Le rôle décisionnel.",
+  "id": "q237"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce que la chaîne de valeur de Porter ?",
+  "reponse": "Un ensemble d'activités qui transforment des inputs en outputs achetés par le client, permettant d'identifier les avantages concurrentiels.",
+  "id": "q238"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce que la « valeur » dans la chaîne de valeur de Porter ?",
+  "reponse": "La somme que les clients sont prêts à payer pour les produits/services.",
+  "id": "q239"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Comment une entreprise crée-t-elle de la marge selon Porter ?",
+  "reponse": "Si la valeur payée par les clients dépasse l'ensemble des coûts des activités.",
+  "id": "q240"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Différence entre activité principale et activité de soutien dans la chaîne de valeur de Porter ?",
+  "reponse": "Les principales participent directement à la production ; les activités de soutien aident sans y participer directement.",
+  "id": "q241"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Citez les 5 activités principales de la chaîne de valeur de Porter.",
+  "reponse": "Logistique interne, production, logistique externe, commercialisation/vente, et services.",
+  "id": "q242"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Citez les 4 activités de soutien de la chaîne de valeur de Porter.",
+  "reponse": "Infrastructure de la firme, gestion des RH, développement technologique, approvisionnement.",
+  "id": "q243"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "La livraison des produits finis aux clients appartient à quelle activité de Porter ?",
+  "reponse": "À la logistique externe (activité principale).",
+  "id": "q244"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "La gestion de la paie et le recrutement appartiennent à quelle activité de soutien ?",
+  "reponse": "À la gestion des ressources humaines.",
+  "id": "q245"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Le développement d'un nouvel algorithme par une entreprise informatique : quelle activité ?",
+  "reponse": "Développement technologique (soutien), ou activité principale si c'est le produit vendu.",
+  "id": "q246"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quel est l'objectif principal de la fonction logistique ?",
+  "reponse": "Optimiser les flux de biens et d'informations en amont, interne et en aval.",
+  "id": "q247"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Différence entre logistique amont, interne et aval ?",
+  "reponse": "Amont = fournisseurs, interne = flux internes, aval = clients.",
+  "id": "q248"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Transfert de composants entre ateliers de production : amont, interne ou aval ?",
+  "reponse": "Interne.",
+  "id": "q249"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Citez 3 domaines dans lesquels une bonne logistique peut apporter un avantage concurrentiel.",
+  "reponse": "La production, la relation commerciale et les finances.",
+  "id": "q250"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Comment une bonne logistique améliore-t-elle la relation commerciale ?",
+  "reponse": "En réduisant les délais de livraison et en limitant les ruptures de stock.",
+  "id": "q251"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Comment la logistique réduit-elle les coûts financiers ?",
+  "reponse": "En réduisant les stocks et en optimisant les flux.",
+  "id": "q252"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quel est l'objectif de la fonction production ?",
+  "reponse": "Produire des biens/services à partir de matières premières pour les vendre.",
+  "id": "q253"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Citez les 4 objectifs de la fonction production.",
+  "reponse": "Être rentable, être de qualité, être flexible, être réactive.",
+  "id": "q254"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Pourquoi la flexibilité est-elle un objectif important pour la production ?",
+  "reponse": "L'environnement évolue constamment, l'entreprise doit s'adapter rapidement.",
+  "id": "q255"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce que la production unitaire ? Donnez un exemple.",
+  "reponse": "Chaque élément produit est unique (ex : porte-avions, film).",
+  "id": "q256"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Différence entre production par petite série et grande série ?",
+  "reponse": "Petite série : petits groupes identiques, coût élevé. Grande série : produit standardisé en masse, coût unitaire bas.",
+  "id": "q257"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Des avions militaires fabriqués sur commande selon les spécifications : quel mode de production ?",
+  "reponse": "Production unitaire (par projet).",
+  "id": "q258"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce que le mode de production push ?",
+  "reponse": "L'entreprise anticipe la demande et produit un stock qu'elle pousse vers les clients.",
+  "id": "q259"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce que le mode de production pull, et quand est-il apparu ?",
+  "reponse": "La commande du client déclenche la production ; apparu avec la multiplication des variantes de produits.",
+  "id": "q260"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Une voiture fabriquée seulement après commande avec options choisies : quel mode, quel inconvénient ?",
+  "reponse": "Mode pull ; inconvénient : délai entre commande et livraison.",
+  "id": "q261"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce qu'une économie d'échelle ?",
+  "reponse": "La réduction du coût unitaire quand les quantités produites augmentent.",
+  "id": "q262"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Pourquoi le coût unitaire diminue-t-il quand les quantités augmentent ?",
+  "reponse": "Les charges fixes sont réparties sur plus de produits.",
+  "id": "q263"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "1000 unités, charges fixes 10000€, variables 5€/unité : coût unitaire ? Et pour 2000 unités ?",
+  "reponse": "1000 unités : 15€/unité. 2000 unités : 10€/unité.",
+  "id": "q264"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce que le marketing ?",
+  "reponse": "Les méthodes et moyens pour promouvoir des comportements favorables aux objectifs de l'organisation.",
+  "id": "q265"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Différence entre marketing stratégique et marketing opérationnel ?",
+  "reponse": "Stratégique = analyse (segmentation, ciblage, positionnement). Opérationnel = mise en œuvre (produit, prix, communication, distribution).",
+  "id": "q266"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Cibler les 18-25 ans et se positionner comme accessible : stratégique ou opérationnel ?",
+  "reponse": "Stratégique (ciblage et positionnement).",
+  "id": "q267"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Citez les 3 étapes du marketing stratégique dans l'ordre.",
+  "reponse": "Segmentation, ciblage, positionnement.",
+  "id": "q268"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce que la segmentation du marché ?",
+  "reponse": "Découper le marché en sous-groupes homogènes selon des critères communs.",
+  "id": "q269"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Différence entre ciblage et positionnement ?",
+  "reponse": "Ciblage = choisir les segments visés. Positionnement = définir la place souhaitée dans l'esprit des consommateurs.",
+  "id": "q270"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Citez les 4 éléments du marketing opérationnel.",
+  "reponse": "Produit, prix, communication et circuit de distribution.",
+  "id": "q271"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Vendre exclusivement via son propre site e-commerce : quel élément du marketing opérationnel ?",
+  "reponse": "Le circuit de distribution.",
+  "id": "q272"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Patagonia utilise des matières recyclées, propose des réparations, communique sur l'écologie. Quels éléments ?",
+  "reponse": "Produit, communication, et potentiellement prix.",
+  "id": "q273"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quel logiciel gère les emplacements d'entrepôt, inventaires, trajets des préparateurs ?",
+  "reponse": "Le WMS (logistique).",
+  "id": "q274"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quel logiciel centralise les informations sur prospects et clients ?",
+  "reponse": "Le CRM (marketing).",
+  "id": "q275"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Planifier la production et suivre l'entretien des machines : quels logiciels ?",
+  "reponse": "GPAO (production) et GMAO (maintenance).",
+  "id": "q276"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Citez les missions de la fonction comptable et finance.",
+  "reponse": "Produire l'info comptable, évaluer les besoins de trésorerie, trouver des fonds, placer les fonds, communiquer aux investisseurs.",
+  "id": "q277"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce que la trésorerie et pourquoi doit-elle être évaluée ?",
+  "reponse": "Les liquidités disponibles ; il existe des décalages entre règlements clients et fournisseurs.",
+  "id": "q278"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Pourquoi communiquer auprès des investisseurs potentiels ?",
+  "reponse": "Pour attirer des financements nécessaires au développement.",
+  "id": "q279"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Citez les 3 grandes missions de la fonction ressources humaines.",
+  "reponse": "Gestion des besoins en compétences, gestion des carrières, gestion des relations sociales.",
+  "id": "q280"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "En quoi consiste la gestion des besoins en personnes et compétences ?",
+  "reponse": "Comparer compétences disponibles et besoins, puis recruter, licencier ou organiser des départs.",
+  "id": "q281"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quels sont les 3 composants de la rémunération selon le cours ?",
+  "reponse": "Éléments directs, indirects et immatériels.",
+  "id": "q282"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce qu'une clause de dédit-formation ?",
+  "reponse": "Elle oblige le salarié à rembourser les frais de formation s'il démissionne avant un délai donné.",
+  "id": "q283"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Pourquoi les entreprises ont-elles recours aux clauses de dédit-formation ?",
+  "reponse": "Pour se protéger contre le départ rapide d'un salarié formé à leurs frais.",
+  "id": "q284"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Formation de 5000€ financée, démission 3 mois après, clause de 2 ans. Que se passe-t-il ?",
+  "reponse": "Le salarié doit rembourser tout ou partie des 5000€.",
+  "id": "q285"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce que le principe de Peters ?",
+  "reponse": "Dans une hiérarchie, tout employé tend à s'élever jusqu'à son niveau d'incompétence.",
+  "id": "q286"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quelle conséquence pratique pour les décisions de promotion ?",
+  "reponse": "Promouvoir selon les compétences requises au nouveau poste, pas seulement les compétences actuelles.",
+  "id": "q287"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Un développeur promu chef de projet sans évaluation des compétences managériales illustre quoi ?",
+  "reponse": "Le principe de Peters : il atteint son niveau d'incompétence.",
+  "id": "q288"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce que la fonction R&D dans une entreprise ?",
+  "reponse": "Créer ou améliorer produits/services/procédés en combinant recherche et développement.",
+  "id": "q289"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Différence entre recherche et développement ?",
+  "reponse": "Recherche = exploration sans application immédiate. Développement = transformer en solutions concrètes.",
+  "id": "q290"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Explorer de nouveaux algorithmes d'IA sans application commerciale prévue : recherche ou développement ?",
+  "reponse": "Recherche.",
+  "id": "q291"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce qu'un brevet et quel avantage procure-t-il ?",
+  "reponse": "Un mécanisme de protection donnant un monopole temporaire d'utilisation de l'invention.",
+  "id": "q292"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Un propriétaire de brevet peut-il en tirer des revenus sans l'exploiter lui-même ?",
+  "reponse": "Oui : licence d'utilisation ou vente du brevet.",
+  "id": "q293"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Pourquoi des entreprises achètent-elles des brevets plutôt que de tout développer elles-mêmes ?",
+  "reponse": "Pour accélérer l'innovation et se positionner rapidement sur un marché.",
+  "id": "q294"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quel est l'objectif de la fonction approvisionnement ?",
+  "reponse": "Procurer les matières premières au meilleur rapport qualité/prix.",
+  "id": "q295"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quels critères guident le choix d'un fournisseur à court terme vs long terme ?",
+  "reponse": "Court terme : le prix. Long terme : la fiabilité (délai, qualité, quantité).",
+  "id": "q296"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Pourquoi maintenir un fournisseur principal et des secondaires ?",
+  "reponse": "Pour éviter la dépendance et conserver un levier de négociation.",
+  "id": "q297"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce qu'un système d'information (SI) ?",
+  "reponse": "Un ensemble de ressources permettant de collecter, stocker, traiter et diffuser l'information.",
+  "id": "q298"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Un système d'information peut-il exister sans outil informatique ?",
+  "reponse": "Oui, historiquement via fichiers papier ou réunions orales.",
+  "id": "q299"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quel est l'objectif de la fonction GSI ?",
+  "reponse": "Concevoir, déployer, maintenir et faire évoluer le SI pour répondre aux besoins des autres fonctions.",
+  "id": "q300"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Citez les missions de la fonction GSI.",
+  "reponse": "Infrastructure technique, déploiement d'applications, intégration des applications, cybersécurité/RGPD, accompagnement des utilisateurs, transformation numérique.",
+  "id": "q301"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quelle mission de la GSI est particulièrement liée au RGPD ?",
+  "reponse": "Garantir la confidentialité des données.",
+  "id": "q302"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce que l'intégration d'applications et pourquoi est-elle nécessaire ?",
+  "reponse": "Faire communiquer les logiciels entre eux pour éviter ressaisies et erreurs.",
+  "id": "q303"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quand la GSI est-elle une activité de soutien dans la chaîne de valeur de Porter ?",
+  "reponse": "Quand elle gère l'infrastructure ou fournit des outils sans que ce soit le produit vendu.",
+  "id": "q304"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quand la GSI peut-elle devenir une activité principale ?",
+  "reponse": "Dans le numérique, quand le SI est le produit ou le canal de distribution lui-même.",
+  "id": "q305"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "L'application mobile d'une banque en ligne : activité de soutien ou principale ?",
+  "reponse": "Principale : c'est le canal de distribution du service bancaire.",
+  "id": "q306"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quels sont les deux parcours de deuxième année du BUT Informatique ?",
+  "reponse": "Réalisation d'applications, et Intégration d'applications et management du SI (IAMSI).",
+  "id": "q307"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quel parcours est orienté conception et développement de logiciels ?",
+  "reponse": "Réalisation d'applications.",
+  "id": "q308"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quel parcours est orienté gestion des échanges entre applications et pilotage du SI ?",
+  "reponse": "IAMSI.",
+  "id": "q309"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Qu'est-ce qu'un ERP et à quelles fonctions est-il associé ?",
+  "reponse": "Un progiciel intégré centralisant les données de toutes les fonctions, géré par la GSI.",
+  "id": "q310"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Quel logiciel gère les candidatures et offres d'emploi ?",
+  "reponse": "L'ATS (ressources humaines).",
+  "id": "q311"
+ },
+ {
+  "synthese": 5,
+  "titre": "Les fonctions dans l'entreprise",
+  "question": "Gérer en ligne les formations et délivrer des attestations : quel logiciel ?",
+  "reponse": "Un LMS (ressources humaines).",
+  "id": "q312"
+ }
+]
